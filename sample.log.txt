@@ -1,0 +1,17 @@
+2024-01-15 10:00:01 INFO Application started successfully
+2024-01-15 10:00:02 INFO Loading configuration file
+2024-01-15 10:00:03 WARNING Config file not found, using defaults
+2024-01-15 10:00:15 INFO Database connection established
+2024-01-15 10:00:20 ERROR Database query failed: connection timeout
+2024-01-15 10:00:25 WARNING Retrying database connection
+2024-01-15 10:00:30 INFO Database connection re-established
+2024-01-15 10:01:00 ERROR User authentication failed for user: john_doe
+2024-01-15 10:01:05 INFO Processing request ID: 12345
+2024-01-15 10:01:10 WARNING High memory usage detected: 85%
+2024-01-15 10:01:15 INFO Request completed successfully
+2024-01-15 10:01:20 ERROR File not found: /var/www/data/config.xml
+2024-01-15 10:01:25 INFO Starting backup process
+2024-01-15 10:01:30 DEBUG Backup process 50% complete
+2024-01-15 10:01:35 INFO Backup completed successfully
+2024-01-15 10:02:00 CRITICAL System crash detected - initiating emergency shutdown
+2024-01-15 10:02:05 INFO System shutdown completed
