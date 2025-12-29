@@ -68,6 +68,7 @@ If no file is provided, it defaults to:
 sample.log
 
 ## 🧪 Example Output
+
 ============================================================
 LOG FILE ANALYSIS REPORT
 ============================================================
