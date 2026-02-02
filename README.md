@@ -17,7 +17,7 @@ Warnings
 
 Info
 
-Debug
+Debugs
 
 Critical / Fatal logs
 
