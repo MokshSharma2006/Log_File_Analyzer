@@ -134,4 +134,4 @@ This project is licensed under the MIT License
 ## 👤 Author
 
 Moksh Sharma
-Python Developer | Linux & System Tools Enthusiast
+Python Developer | Linux & System Tools Enthusiast.
